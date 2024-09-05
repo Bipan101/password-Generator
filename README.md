@@ -9,5 +9,16 @@ react + vite(Bundler).
 
 ## To run this project 
 1. Open Terminal and clone this repo
-(type: git clone https://github.com/Bipan101/password-Generator.git )
-2. Then type: npm run dev 
+   ```bash
+   git clone https://github.com/Bipan101/password-Generator.git
+2. Navigate to the project directory:
+    ```bash
+    cd (your directory)
+
+3. Install the dependencies:
+    ```bash
+    npm -i or npm install
+
+4. Start the development server:
+    ```bash
+    npm run dev
